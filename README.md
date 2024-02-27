@@ -1,6 +1,6 @@
 ### Hello human being (or cyber being) 👋😁
 
-<a href="https://app.daily.dev/krax7"><img src="https://api.daily.dev/devcards/v2/ZuC05XRh2.png?type=default&r=72f" width="356" alt="Omar Hoyos's Dev Card"/></a>
+<a href="https://app.daily.dev/krax7"><img src="https://api.daily.dev/devcards/v2/ZuC05XRh2.png?type=wide&r=pqi" width="652" alt="Omar Hoyos's Dev Card"/></a>
 
 - 🔭 I’m currently working on Data Science and Data Engineering projects at a programming school 👨‍🏫💻
 - 🌱 I’m currently learning about LLMs. I'm very excited to work with them!
