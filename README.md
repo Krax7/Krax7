@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello human being (or cyber being) 👋😁
+
+<a href="https://app.daily.dev/krax7"><img src="https://api.daily.dev/devcards/v2/ZuC05XRh2.png?type=default&r=72f" width="356" alt="Omar Hoyos's Dev Card"/></a>
+
+- 🔭 I’m currently working on Data Science and Data Engineering projects at a programming school 👨‍🏫💻
+- 🌱 I’m currently learning about LLMs. I'm very excited to work with them!
+- 👯 I’m looking to collaborate on LLM projects to build useful applications for everyone.
 
 <!--
 **Krax7/Krax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
